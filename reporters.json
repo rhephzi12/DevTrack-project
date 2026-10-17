@@ -1,0 +1,29 @@
+{
+    "counter": 5,
+    "data": {
+        "1": {
+            "id": 1,
+            "name": "Alice Dev",
+            "email": "alice@company.com",
+            "team": "backend"
+        },
+        "2": {
+            "id": 2,
+            "name": "Alice Dev",
+            "email": "alice@company.com",
+            "team": "backend"
+        },
+        "3": {
+            "id": 3,
+            "name": "Alice Dev",
+            "email": "alice@company.com",
+            "team": "backend"
+        },
+        "4": {
+            "id": 4,
+            "name": "Alice Dev",
+            "email": "alice@company.com",
+            "team": "backend"
+        }
+    }
+}
